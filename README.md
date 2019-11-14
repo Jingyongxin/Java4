@@ -56,7 +56,7 @@ public class jx {
   }
   ```
   ## 流程图
-  
+  ![images](https://github.com/Jingyongxin/Java4/blob/master/流程图.png)
   ## 实验结果
-  
+  ![images]()
   ## 实验感想
