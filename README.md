@@ -58,5 +58,6 @@ public class jx {
   ## 流程图
   ![images](https://github.com/Jingyongxin/Java4/blob/master/流程图.png)
   ## 实验结果
-  ![images]()
+  ![images](https://github.com/Jingyongxin/Java4/blob/master/运行结果.png)
   ## 实验感想
+  通过本次实验，发现了自己的很多不足,str数组和scanner键盘输入方法实现掌握的还不是很熟练，但在老师和同学的帮助下勉强完成了实验 在接下来学习中定会加倍努力弥补自己的不足。
